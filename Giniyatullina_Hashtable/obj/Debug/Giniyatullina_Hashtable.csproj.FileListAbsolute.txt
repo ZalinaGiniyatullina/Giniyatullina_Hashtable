@@ -1,0 +1,11 @@
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\bin\Debug\Giniyatullina_Hashtable.exe.config
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\bin\Debug\Giniyatullina_Hashtable.exe
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\bin\Debug\Giniyatullina_Hashtable.pdb
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.csproj.AssemblyReference.cache
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.Form1.resources
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.Properties.Resources.resources
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.csproj.GenerateResource.cache
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.exe
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.pdb
+C:\Users\79678\Desktop\дз\Мирош\Giniyatullina_Hashtable\obj\Debug\Giniyatullina_Hashtable.exe.config
